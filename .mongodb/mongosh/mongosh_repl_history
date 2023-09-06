@@ -1,0 +1,16 @@
+show dbs
+db.getMongo().getDB().getConnectionString({ "database": "coinflip" })
+db.getMongo().getDB().getConnectionString()
+exit
+db.getMongo().getDB().getConnectionString()
+db.getMongo().getDB().getConnectionString({ "database": "coinflip" })
+db.getMongo().getDB().getConnectionString({ "database": "yourDatabaseName" })
+db
+dbb
+use admin
+show dbs
+db
+d
+dbs
+db.coinflip.find()
+show dbs

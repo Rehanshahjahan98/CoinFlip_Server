@@ -1,0 +1,48 @@
+(node:222629) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:222629) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+error Command "start" not found.
+warning ../../package.json: No license field
+error Command "start" not found.
+warning ../../package.json: No license field
+(node:225698) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:225698) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:225698) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:225698) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:225698) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:225698) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:225698) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:225698) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:267:15)
+    at /root/Coin/CrazyFlip-backend-main/controllers/user.js:765:30
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at /root/Coin/CrazyFlip-backend-main/app.js:202:21
+    at Layer.handle_error (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:315:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:127:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+(node:244637) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:244637) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:244637) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:244637) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:244637) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:244637) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:244637) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:244637) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency

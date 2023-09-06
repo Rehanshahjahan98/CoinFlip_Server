@@ -1,0 +1,96 @@
+2023-08-30T10:00:16: PM2 log: ===============================================================================
+2023-08-30T10:00:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-08-30T10:00:16: PM2 log: Time                 : Wed Aug 30 2023 10:00:16 GMT+0000 (Coordinated Universal Time)
+2023-08-30T10:00:16: PM2 log: PM2 version          : 5.3.0
+2023-08-30T10:00:16: PM2 log: Node.js version      : 18.16.1
+2023-08-30T10:00:16: PM2 log: Current arch         : x64
+2023-08-30T10:00:16: PM2 log: PM2 home             : /root/.pm2
+2023-08-30T10:00:16: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2023-08-30T10:00:16: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2023-08-30T10:00:16: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2023-08-30T10:00:16: PM2 log: Application log path : /root/.pm2/logs
+2023-08-30T10:00:16: PM2 log: Worker Interval      : 30000
+2023-08-30T10:00:16: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2023-08-30T10:00:16: PM2 log: Concurrent actions   : 2
+2023-08-30T10:00:16: PM2 log: SIGTERM timeout      : 1600
+2023-08-30T10:00:16: PM2 log: ===============================================================================
+2023-08-30T10:00:16: PM2 log: App [frontend:0] starting in -fork mode-
+2023-08-30T10:00:16: PM2 log: App [frontend:0] online
+2023-08-30T10:00:42: PM2 log: App [backend:1] starting in -fork mode-
+2023-08-30T10:00:42: PM2 log: App [backend:1] online
+2023-08-30T10:19:00: PM2 log: App [backend:2] starting in -fork mode-
+2023-08-30T10:19:00: PM2 log: App [backend:2] online
+2023-08-30T10:23:44: PM2 log: Stopping app:backend id:1
+2023-08-30T10:23:44: PM2 log: App [backend:1] exited with code [0] via signal [SIGINT]
+2023-08-30T10:23:44: PM2 log: pid=222322 msg=process killed
+2023-08-30T10:23:48: PM2 log: Stopping app:backend id:2
+2023-08-30T10:23:48: PM2 log: App [backend:2] exited with code [0] via signal [SIGINT]
+2023-08-30T10:23:48: PM2 log: pid=222498 msg=process killed
+2023-08-30T10:25:04: PM2 log: Stopping app:frontend id:0
+2023-08-30T10:25:04: PM2 log: App [frontend:0] exited with code [0] via signal [SIGINT]
+2023-08-30T10:25:04: PM2 log: pid=222254 msg=process killed
+2023-08-30T10:25:11: PM2 log: App [backend:0] starting in -fork mode-
+2023-08-30T10:25:11: PM2 log: App [backend:0] online
+2023-08-30T10:26:04: PM2 log: App [frontend:1] starting in -fork mode-
+2023-08-30T10:26:04: PM2 log: App [frontend:1] online
+2023-08-30T10:26:07: PM2 log: App [frontend:1] exited with code [0] via signal [SIGINT]
+2023-08-30T10:26:07: PM2 log: App [frontend:1] starting in -fork mode-
+2023-08-30T10:26:07: PM2 log: App [frontend:1] online
+2023-08-30T10:26:10: PM2 log: App [frontend:1] exited with code [0] via signal [SIGINT]
+2023-08-30T10:26:10: PM2 log: App [frontend:1] starting in -fork mode-
+2023-08-30T10:26:10: PM2 log: App [frontend:1] online
+2023-08-30T10:26:12: PM2 log: App [frontend:1] exited with code [0] via signal [SIGINT]
+2023-08-30T10:26:12: PM2 log: App [frontend:1] starting in -fork mode-
+2023-08-30T10:26:12: PM2 log: App [frontend:1] online
+2023-08-30T10:26:13: PM2 log: Stopping app:backend id:0
+2023-08-30T10:26:13: PM2 log: App [backend:0] exited with code [0] via signal [SIGINT]
+2023-08-30T10:26:13: PM2 log: pid=222610 msg=process killed
+2023-08-30T10:26:34: PM2 log: App [backend:2] starting in -fork mode-
+2023-08-30T10:26:34: PM2 log: App [backend:2] online
+2023-08-30T10:29:53: PM2 error: 0 : id unknown
+2023-08-30T10:29:53: PM2 error: Trace: Error: 0 : id unknown
+    at God.logAndGenerateError (/usr/local/lib/node_modules/pm2/lib/God/Methods.js:39:12)
+    at God.stopProcessId (/usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:289:21)
+    at God.deleteProcessId (/usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:366:9)
+    at Server.onmessage (/usr/local/lib/node_modules/pm2/node_modules/pm2-axon-rpc/lib/server.js:104:6)
+    at RepSocket.emit (node:events:513:28)
+    at RepSocket.emit (node:domain:489:12)
+    at Parser.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pm2-axon/lib/sockets/rep.js:51:15)
+    at Parser.emit (node:events:513:28)
+    at Parser.emit (node:domain:552:15)
+    at Parser._write (/usr/local/lib/node_modules/pm2/node_modules/amp/lib/stream.js:91:16)
+    at God.logAndGenerateError (/usr/local/lib/node_modules/pm2/lib/God/Methods.js:34:15)
+    at /usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:367:30
+    at God.stopProcessId (/usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:289:14)
+    at God.deleteProcessId (/usr/local/lib/node_modules/pm2/lib/God/ActionMethods.js:366:9)
+    at Server.onmessage (/usr/local/lib/node_modules/pm2/node_modules/pm2-axon-rpc/lib/server.js:104:6)
+    at RepSocket.emit (node:events:513:28)
+    at RepSocket.emit (node:domain:489:12)
+    at Parser.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pm2-axon/lib/sockets/rep.js:51:15)
+    at Parser.emit (node:events:513:28)
+    at Parser.emit (node:domain:552:15)
+2023-08-30T10:30:07: PM2 log: Stopping app:frontend id:1
+2023-08-30T10:30:07: PM2 log: App [frontend:1] exited with code [0] via signal [SIGINT]
+2023-08-30T10:30:07: PM2 log: pid=222766 msg=process killed
+2023-08-30T10:30:15: PM2 log: App [frontend:3] starting in -fork mode-
+2023-08-30T10:30:15: PM2 log: App [frontend:3] online
+2023-08-30T10:55:39: PM2 log: Stopping app:backend id:2
+2023-08-30T10:55:40: PM2 log: App [backend:2] exited with code [0] via signal [SIGINT]
+2023-08-30T10:55:40: PM2 log: pid=222844 msg=process killed
+2023-08-30T10:55:56: PM2 log: Stopping app:frontend id:3
+2023-08-30T10:55:56: PM2 log: App [frontend:3] exited with code [0] via signal [SIGINT]
+2023-08-30T10:55:57: PM2 log: pid=222892 msg=process killed
+2023-08-30T13:34:35: PM2 log: App [backend:0] starting in -fork mode-
+2023-08-30T13:34:35: PM2 log: App [backend:0] online
+2023-08-30T13:34:40: PM2 log: App [frontend:1] starting in -fork mode-
+2023-08-30T13:34:40: PM2 log: App [frontend:1] online
+2023-08-30T13:35:41: PM2 log: Stopping app:backend id:0
+2023-08-30T13:35:41: PM2 log: App [backend:0] exited with code [0] via signal [SIGINT]
+2023-08-30T13:35:41: PM2 log: pid=225473 msg=process killed
+2023-08-30T13:37:54: PM2 log: App [app-name:2] starting in -fork mode-
+2023-08-30T13:37:54: PM2 log: App [app-name:2] online
+2023-08-30T13:38:06: PM2 log: Stopping app:app-name id:2
+2023-08-30T13:38:07: PM2 log: App [app-name:2] exited with code [0] via signal [SIGINT]
+2023-08-30T13:38:07: PM2 log: pid=225616 msg=process killed
+2023-08-30T13:38:19: PM2 log: App [backend:3] starting in -fork mode-
+2023-08-30T13:38:19: PM2 log: App [backend:3] online

@@ -1,0 +1,10 @@
+warning ../../package.json: No license field
+(node:225641) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:225641) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:225641) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:225641) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:225641) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:225641) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:225641) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:225641) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency

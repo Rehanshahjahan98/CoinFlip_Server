@@ -1,0 +1,79 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@9.5.1
+2 info using node@v18.16.1
+3 timing npm:load:whichnode Completed in 2ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 1ms
+10 timing config:load:file:/root/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 0ms
+12 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:setEnvs Completed in 1ms
+15 timing config:load Completed in 9ms
+16 timing npm:load:configload Completed in 9ms
+17 timing npm:load:mkdirpcache Completed in 0ms
+18 timing npm:load:mkdirplogs Completed in 0ms
+19 verbose title npm install cors
+20 verbose argv "install" "cors"
+21 timing npm:load:setTitle Completed in 1ms
+22 timing config:load:flatten Completed in 3ms
+23 timing npm:load:display Completed in 4ms
+24 verbose logfile logs-max:10 dir:/root/.npm/_logs/2023-08-30T12_16_50_372Z-
+25 verbose logfile /root/.npm/_logs/2023-08-30T12_16_50_372Z-debug-0.log
+26 timing npm:load:logFile Completed in 6ms
+27 timing npm:load:timers Completed in 0ms
+28 timing npm:load:configScope Completed in 0ms
+29 timing npm:load Completed in 25ms
+30 timing config:load:flatten Completed in 1ms
+31 timing arborist:ctor Completed in 1ms
+32 silly logfile start cleaning logs, removing 1 files
+33 silly logfile done cleaning log files
+34 timing arborist:ctor Completed in 0ms
+35 timing idealTree:init Completed in 13ms
+36 timing idealTree:userRequests Completed in 6ms
+37 silly idealTree buildDeps
+38 silly fetch manifest cors@*
+39 http fetch GET 200 https://registry.npmjs.org/cors 155ms (cache revalidated)
+40 silly placeDep ROOT cors@2.8.5 OK for:  want: *
+41 silly fetch manifest object-assign@^4
+42 silly fetch manifest vary@^1
+43 http fetch GET 200 https://registry.npmjs.org/object-assign 56ms (cache revalidated)
+44 http fetch GET 200 https://registry.npmjs.org/vary 56ms (cache revalidated)
+45 timing idealTree:#root Completed in 231ms
+46 silly placeDep ROOT object-assign@4.1.1 OK for: cors@2.8.5 want: ^4
+47 silly placeDep ROOT vary@1.1.2 OK for: cors@2.8.5 want: ^1
+48 timing idealTree:node_modules/cors Completed in 9ms
+49 timing idealTree:node_modules/object-assign Completed in 0ms
+50 timing idealTree:node_modules/vary Completed in 0ms
+51 timing idealTree:buildDeps Completed in 242ms
+52 timing idealTree:fixDepFlags Completed in 1ms
+53 timing idealTree Completed in 266ms
+54 timing reify:loadTrees Completed in 267ms
+55 timing reify:diffTrees Completed in 1ms
+56 silly reify moves {}
+57 timing reify:retireShallow Completed in 2ms
+58 timing reify:createSparse Completed in 3ms
+59 timing reify:loadBundles Completed in 0ms
+60 timing reifyNode:node_modules/object-assign Completed in 38ms
+61 timing reifyNode:node_modules/vary Completed in 39ms
+62 timing reifyNode:node_modules/cors Completed in 40ms
+63 timing reify:unpack Completed in 40ms
+64 timing reify:unretire Completed in 1ms
+65 timing build:queue Completed in 1ms
+66 timing build:deps Completed in 1ms
+67 timing build Completed in 1ms
+68 timing reify:build Completed in 2ms
+69 timing reify:trash Completed in 0ms
+70 timing reify:save Completed in 8ms
+71 timing reify Completed in 334ms
+72 silly ADD node_modules/vary
+73 silly ADD node_modules/object-assign
+74 silly ADD node_modules/cors
+75 timing command:install Completed in 341ms
+76 verbose exit 0
+77 timing npm Completed in 382ms
+78 info ok
