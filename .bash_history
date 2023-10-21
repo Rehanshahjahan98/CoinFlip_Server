@@ -512,3 +512,278 @@ cd CrazyFlip-backend-main
 cd helpers
 nano web3.js
 cd
+cd Coin/CrazyFlip-frontend-main
+cd src/pages
+nano Signup.js
+cd ..
+cd components
+nano myAccount.js
+cd ..
+cd pages
+nano Signup.js
+cd ..
+cd components
+nano content,js
+nano content.js
+cd ..
+cd pages
+nano Signup.js
+cd ..
+cd components
+nano AffNetwork.js
+cd ..
+cd pages
+nano App.js
+cd ..
+nano App.js
+cd pages
+nano AffNetwork.js
+nano Signup.js
+fg
+cd ..
+cd components
+nano transactionsDetail.js
+nano content.js
+nano ForgetPassword.js
+nano ForgotPassword.js
+nano myAccount.js
+nano transactionsDetail.js
+cd ..
+cd pages
+cd DashBoard.js
+nano DashBoard.js
+nano Signup.js
+cd
+git add .
+cd Coin/CrazyFlip-frontend-main/src
+cd components
+nano affilliates.js
+cd
+git init
+sudo apt install git
+git init
+git remote add origin https://github.com/Rehanshahjahan98/CoinFlip_Server.git
+git branch -M main
+git status
+git add .
+git commit -m "first commit"
+git config --global user.email "rehan.shahjahan98@gmail.com"
+git config --global user.name "rehanshahjahan98"
+git commit -m "first commit"
+git push -u origin main
+git push origin main
+git branch -M main
+git push origin main
+git push -u origin main
+clear
+git push -u origin main
+git credential reject
+git credential approve
+git push -u origin main~
+git push -u origin main
+git remote add origin https://github.com/Rehanshahjahan98/Coin.git
+git status
+git add .
+git commit -m "first"
+git push -u origin main
+git init
+git remote add origin https://github.com/Rehanshahjahan98/Coin.git
+git push -u origin main
+cd Coin
+git remote -v
+cd
+git remote -v
+cd Coin
+git add .
+git commit -m "changes"
+git push origin main
+cd Coin
+cd CrazyFlip-backend-main
+ls
+cd
+cd Coin
+cd CrazyFlip-backend-main
+ls
+cd cotrollers
+cd helpers
+ls
+nano web3.js
+cd Coin/CrazyFlip-backend-main
+ls
+cd controllers
+ls
+nano user.js
+cd ..
+ls
+cd ..
+cd CrazyFlip-frontend-main
+cd src
+nano Signup.js
+cd pages
+nano Signup.js
+mongo
+cd Coin/CrazyFlip-backend-main
+nano .env.example
+cd test
+nano app.js
+cd ..
+nano app.js
+cd helpers
+nano web3.js
+cd ..
+cd CrazyFlip-frontend-main
+cd pages
+cd page
+cd src
+cd pages
+nano App.js
+cd .
+cd ..
+nano App.js
+cd components
+nano AffNetwork.js
+cd
+cd Coin/crazyFlip-backend-main
+cd Coin/CrazyFlip-backend-main
+ls
+nano .env.example
+nano app.js
+nano .env.example
+nano app.js
+cd helpers
+nano web3.js
+cd Coin/CrazyFlip-frontend-main
+cd src
+cd pages
+nano Signup.js
+mongo
+nano Signup.js
+cd COin
+cd Coin
+cd CrazyFlip-frontend-main
+ls
+cd src
+ls
+cd pages
+ls
+nano Signup.js
+cd ..
+cd Context
+nano constant.js
+cd ..
+cd pages
+nano Signup.js
+cd 
+cd Coin/CrazyFlip-backend-main
+cd helpers
+nano web3.js
+cd
+cd Coin/CrazyFlip-frontend-main/src/Context
+nano constant.js
+cd ..
+cd pages
+nano Signup.js
+cd ..
+cd constant.js
+cd helpers
+cd Context
+cd constant.js
+nano constant.js
+cd
+cd Coin/CrazyFlip-backend-main
+cd helpers
+nano web3.js
+cd CrazyFlip-backend-main
+cd Coin/razyFlip-backend-main
+cd Coin/CrazyFlip-backend-main
+ls
+cs helpers
+cd helpers
+nano web3.js
+cd ..
+cd CrazyFlip-frontend-main
+cd src
+cd Context
+nano constant.js
+cd ..
+cd pages
+nano Signup.js
+cd ..
+cd helpers
+cd Context.js
+cd COntext
+cd Context
+nano constant.js
+nano Signup.js
+cd ..
+cd pages
+nano Signup.js
+cd ..
+cd helpers
+cd Context
+nano constant.js
+cd
+cd Coin/CrazyFlip-backend-main/src
+cd Coin/CrazyFlip-backend-main
+cd helpers
+nano web3.js
+cd
+cd Coin/CrazyFlip-frontend-main
+cd src
+cd Context
+nano constant.js
+nano conflipContext.js
+cd Coin/CrazyFlip-frontend-main/src/Context
+nano constant.js
+nano ConflipContext.js
+nano conflipContext.js
+nano constant.js
+cd ..
+cd pages
+cd
+cd Coin/CrazyFlip-backend-main/helpers
+nano web3.js
+cd
+cd Coin/CrazyFlip-frontend-main
+cd src
+cd Context
+nano constant.js
+cd ..
+cd page
+cd pages
+nano Signup.js
+cd
+cd Coin/CrazyFlip-backend-main
+cd helpers
+nano web3.js
+cd
+cd Coin/CrazyFlip-frontend-main/src
+cd Context
+nano conflipcontext.js
+nano conflipContext.js
+nano constant.js
+nano conflipContext.js
+sudo systemctl status
+ps
+ls
+scp
+node -v
+yarn -v
+cd coin
+cd Coin
+git add .
+git commit -am "new changes"
+git push origin Main
+git push origin main
+cd Coin/CrazyFlip-backend-main/src/pages
+cd Coin/CrazyFlip-frontend-main/src/pages
+nano signup.js
+nano Signup.js
+nano Homepage.css
+cd ..
+cd Components
+cd components
+nano ConnectPopup.js
+nano ConnectPopup.css
+cd Coin/CrazyFlip-frontend-main/src/components
+nano FaqPopup.css

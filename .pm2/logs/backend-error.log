@@ -46,3 +46,460 @@ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the cli
 (node:244637) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
 (node:244637) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
 (node:244637) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:249079) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:249079) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:249079) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:249079) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:249079) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:249079) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:249079) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:249079) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:249118) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:249118) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:249118) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:249118) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:249118) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:249118) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:249118) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:249118) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:251567) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:251567) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:251567) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:251567) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:251567) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:251567) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:251567) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:251567) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:253872) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:253872) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:253872) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:253872) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:253872) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:253872) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:253872) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:253872) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:253986) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:253986) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:253986) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:253986) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:253986) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:253986) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:253986) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:253986) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:254030) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:254030) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:254030) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:254030) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:254030) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:254030) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:254030) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:254030) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:254131) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:254131) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:254131) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:254131) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:254131) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:254131) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:254131) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:254131) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:254199) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:254199) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:254199) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:254199) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:254199) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:254199) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:254199) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:254199) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmail (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmail.js:84:29)
+    at exports.postSignup (/root/Coin/CrazyFlip-backend-main/controllers/user.js:126:18)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmail (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmail.js:84:29)
+    at exports.postSignup (/root/Coin/CrazyFlip-backend-main/controllers/user.js:126:18)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+BadRequestError: request aborted
+    at IncomingMessage.onAborted (/root/Coin/CrazyFlip-backend-main/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage._destroy (node:_http_incoming:224:10)
+    at _destroy (node:internal/streams/destroy:109:10)
+    at IncomingMessage.destroy (node:internal/streams/destroy:71:5)
+    at abortIncoming (node:_http_server:754:9)
+    at socketOnClose (node:_http_server:748:3)
+    at Socket.emit (node:events:525:35)
+    at TCP.<anonymous> (node:net:322:12) {
+  code: 'ECONNABORTED',
+  expected: 300,
+  length: 300,
+  received: 260,
+  type: 'request.aborted'
+}
+(node:261367) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:261367) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:261367) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:261367) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:261367) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:261367) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:261367) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:261367) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:261506) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:261506) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:261506) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:261506) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:261506) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:261506) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:261506) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:261506) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmail (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmail.js:84:29)
+    at exports.postLogin (/root/Coin/CrazyFlip-backend-main/controllers/user.js:45:18)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+(node:262297) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:262297) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:262297) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:262297) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:262297) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:262297) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:262297) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:262297) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:262329) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:262329) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:262329) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:262329) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+(node:262329) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(node:262329) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:262329) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:262329) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+BadRequestError: request aborted
+    at IncomingMessage.onAborted (/root/Coin/CrazyFlip-backend-main/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage._destroy (node:_http_incoming:224:10)
+    at _destroy (node:internal/streams/destroy:109:10)
+    at IncomingMessage.destroy (node:internal/streams/destroy:71:5)
+    at abortIncoming (node:_http_server:754:9)
+    at socketOnClose (node:_http_server:748:3)
+    at Socket.emit (node:events:525:35)
+    at TCP.<anonymous> (node:net:322:12) {
+  code: 'ECONNABORTED',
+  expected: 227,
+  length: 227,
+  received: 209,
+  type: 'request.aborted'
+}
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmpty (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmpty.js:19:29)
+    at exports.postLogin (/root/Coin/CrazyFlip-backend-main/controllers/user.js:44:17)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmpty (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmpty.js:19:29)
+    at exports.postLogin (/root/Coin/CrazyFlip-backend-main/controllers/user.js:44:17)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmpty (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmpty.js:19:29)
+    at exports.postLogin (/root/Coin/CrazyFlip-backend-main/controllers/user.js:44:17)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:267:15)
+    at /root/Coin/CrazyFlip-backend-main/controllers/user.js:726:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at /root/Coin/CrazyFlip-backend-main/app.js:202:21
+    at Layer.handle_error (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:315:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:127:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:267:15)
+    at /root/Coin/CrazyFlip-backend-main/controllers/user.js:726:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at /root/Coin/CrazyFlip-backend-main/app.js:202:21
+    at Layer.handle_error (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:315:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:127:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:267:15)
+    at /root/Coin/CrazyFlip-backend-main/controllers/user.js:738:30
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at /root/Coin/CrazyFlip-backend-main/app.js:202:21
+    at Layer.handle_error (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:315:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:127:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:267:15)
+    at /root/Coin/CrazyFlip-backend-main/controllers/user.js:726:32
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at /root/Coin/CrazyFlip-backend-main/app.js:202:21
+    at Layer.handle_error (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:315:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:127:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmail (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmail.js:84:29)
+    at exports.postLogin (/root/Coin/CrazyFlip-backend-main/controllers/user.js:45:18)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:267:15)
+    at /root/Coin/CrazyFlip-backend-main/controllers/user.js:738:30
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:399:5)
+    at ServerResponse.setHeader (node:_http_outgoing:645:11)
+    at ServerResponse.header (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:771:10)
+    at ServerResponse.send (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/response.js:170:12)
+    at /root/Coin/CrazyFlip-backend-main/app.js:202:21
+    at Layer.handle_error (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:315:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:127:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmpty (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmpty.js:19:29)
+    at exports.postLogin (/root/Coin/CrazyFlip-backend-main/controllers/user.js:46:17)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+BadRequestError: request aborted
+    at IncomingMessage.onAborted (/root/Coin/CrazyFlip-backend-main/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage._destroy (node:_http_incoming:224:10)
+    at _destroy (node:internal/streams/destroy:109:10)
+    at IncomingMessage.destroy (node:internal/streams/destroy:71:5)
+    at abortIncoming (node:_http_server:754:9)
+    at socketOnClose (node:_http_server:748:3)
+    at Socket.emit (node:events:525:35)
+    at TCP.<anonymous> (node:net:322:12) {
+  code: 'ECONNABORTED',
+  expected: 300,
+  length: 300,
+  received: 260,
+  type: 'request.aborted'
+}
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmpty (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmpty.js:19:29)
+    at exports.postLogin (/root/Coin/CrazyFlip-backend-main/controllers/user.js:44:17)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+BadRequestError: request aborted
+    at IncomingMessage.onAborted (/root/Coin/CrazyFlip-backend-main/node_modules/raw-body/index.js:231:10)
+    at IncomingMessage.emit (node:events:513:28)
+    at IncomingMessage._destroy (node:_http_incoming:224:10)
+    at _destroy (node:internal/streams/destroy:109:10)
+    at IncomingMessage.destroy (node:internal/streams/destroy:71:5)
+    at abortIncoming (node:_http_server:754:9)
+    at socketOnClose (node:_http_server:748:3)
+    at Socket.emit (node:events:525:35)
+    at TCP.<anonymous> (node:net:322:12) {
+  code: 'ECONNABORTED',
+  expected: 300,
+  length: 300,
+  received: 260,
+  type: 'request.aborted'
+}
+TypeError: Expected string but received a undefined.
+    at assertString (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/util/assertString.js:28:11)
+    at Object.isEmpty (/root/Coin/CrazyFlip-backend-main/node_modules/validator/lib/isEmpty.js:19:29)
+    at exports.postLogin (/root/Coin/CrazyFlip-backend-main/controllers/user.js:44:17)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
+    at /root/Coin/CrazyFlip-backend-main/app.js:121:3
+    at Layer.handle [as handle_request] (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:317:13)
+    at /root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/Coin/CrazyFlip-backend-main/node_modules/express/lib/router/index.js:275:10)
